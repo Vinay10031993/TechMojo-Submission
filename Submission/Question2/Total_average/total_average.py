@@ -1,7 +1,6 @@
 import os
 import pandas as pd
 import numpy as np
-# os.chdir('C:\\Users\\dk23824\\Desktop')
 p=pd.read_csv("testfile.csv",encoding='unicode escape', delimiter=',', header=None)
 p.columns=['ID','Date','Time','status']
 for i in range(0,p.shape[0]):

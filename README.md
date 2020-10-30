@@ -14,6 +14,12 @@ I have done it in Python.
 * Output will fetch you the top 10 Hashtags.
 
 Question2:
-* In the csv date and time are in different columns so in the dataframe I have combined it together as a datetime format.
-* Output of the script provides the information in average minutes taken for each task and average datetime for that particular instance.
+I have developed two solutions:
+
+Solution1: 
+  *The script in the Total_average folder provides you overall average time taken to complete the tasks.
+  
+Solution2:
+  *In the csv date and time are in different columns so in the dataframe I have combined it together as a datetime format.
+  *Output of the script provides the information in average minutes taken for each task and average datetime for that particular instance.
 

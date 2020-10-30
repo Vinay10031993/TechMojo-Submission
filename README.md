@@ -1,6 +1,12 @@
 # Techmojo-Submission
 Coding Test
 Submission Folder consists two folders for Question1 and Question2.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Requirements
+-- Python3
+-- Python Packages: pandas , numpy, tweepy
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Question1: 
 I have done it in Python.

@@ -1,28 +1,3 @@
-# def reducedLength(variable):
-#     val = list(variable)
-#     last,frst = val[:len(val)/2], val[len(val)/2:]
-#     print(frst, last)
-#     revfrst = frst[::-1]
-#     las =[]
-#     las = las+revfrst
-#     for i in range(0,len(las)-1):
-#     	for j in range(0,len(last)-1):
-#     		if las[i] == last[j]:
-#     			last.pop(j)
-
-
-#     return ''
-
-# value = 'aabcccabba'
-
-# print(reducedLength(value))
-
-
-
-
-####
-
-
 import pandas as pd
 import numpy as np
 
